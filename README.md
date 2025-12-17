@@ -21,12 +21,8 @@
 </div>
 
 <div align="center", padding="30px">
-  <p><sup>1 </sup>University of Cagliari; <sup>2 </sup>Fraunhofer IGD &emsp; <sup>3 </sup>Technische Universität Darmstadt</p>
+  <p><sup>1 </sup>University of Cagliari &emsp; <sup>2 </sup>Fraunhofer IGD &emsp; <sup>3 </sup>Technische Universität Darmstadt</p>
 </div>
-
-
-
-
 
 
 ## <div align="center"> Overview 🔎 </div>
