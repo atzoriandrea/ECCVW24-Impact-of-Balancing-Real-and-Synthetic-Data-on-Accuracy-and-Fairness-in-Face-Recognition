@@ -15,7 +15,7 @@
 
 <div align="center", padding="30px">
   <span style="display:block; height: 20em;">&emsp;</span>
-  <p><b>Andrea Atzori</b><sup> 2</sup> &emsp; <b>Fadi Boutros</b><sup> 2</sup> &emsp; <b>Naser Damer</b><sup> 2,3</sup>&emsp; <b>Gianni Fenu</b><sup> 1</sup> &emsp; <b>Mirko Marras</b><sup> 1</sup></p>
+  <p><b>Andrea Atzori</b><sup> 1</sup> &emsp; <b>Fadi Boutros</b><sup> 2</sup> &emsp; <b>Naser Damer</b><sup> 2,3</sup>&emsp; <b>Gianni Fenu</b><sup> 1</sup> &emsp; <b>Mirko Marras</b><sup> 1</sup></p>
   <p>Accepted at International Conference on Automatic Face and Gesture Recognition (FG) 2024</p>
   <p><a href="https://arxiv.org/pdf/2404.03537"><img src="https://github.com/jankolf/assets/blob/main/badges/download-paper-arxiv-c1.svg?raw=true"></a></p>
 </div>
