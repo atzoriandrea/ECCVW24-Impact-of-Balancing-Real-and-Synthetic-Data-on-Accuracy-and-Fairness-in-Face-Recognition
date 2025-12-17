@@ -57,11 +57,10 @@ To extract scores for images in a folder,
     ```
 
 ### Evaluation
-
-    ```
-    cd evaluation
-    CUDA_VISIBLE_DEVICES=0 python3 evaulation.py
-    ```
+```
+cd evaluation
+CUDA_VISIBLE_DEVICES=0 python3 evaulation.py
+```
 ## <div align="center"> Citation(s) ✒ </div>
 
 If you found this work helpful for your research, please cite the article with the following bibtex entry:
