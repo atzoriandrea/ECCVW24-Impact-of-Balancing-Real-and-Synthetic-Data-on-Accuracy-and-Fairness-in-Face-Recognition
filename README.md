@@ -1,6 +1,6 @@
 <div align="center"> Official repository of </div>
 
-# <div align="center"> The Impact of Balancing Real and Synthetic Data on Accuracy and Fairness in Face Recognition </div>
+## <div align="center"> The Impact of Balancing Real and Synthetic Data on Accuracy and Fairness in Face Recognition </div>
 
 <div align="center", padding="30px">
   <span style="display:block; height: 20em;">&emsp;</span>
@@ -11,7 +11,7 @@
 
 <div align="center"> and </div>
 
-# <div align="center"> If It's Not Enough, Make It So: Reducing Authentic Data Demand in Face Recognition through Synthetic Faces </div>
+## <div align="center"> If It's Not Enough, Make It So: Reducing Authentic Data Demand in Face Recognition through Synthetic Faces </div>
 
 <div align="center", padding="30px">
   <span style="display:block; height: 20em;">&emsp;</span>
@@ -20,7 +20,12 @@
   <p><a href="https://arxiv.org/pdf/2404.03537"><img src="https://github.com/jankolf/assets/blob/main/badges/download-paper-arxiv-c1.svg?raw=true"></a></p>
 </div>
 
-<p><sup>1 </sup>University of Cagliari; <sup>2 </sup>Fraunhofer IGD &emsp; <sup>3 </sup>Technische Universität Darmstadt</p>
+<div align="center", padding="30px">
+  <p><sup>1 </sup>University of Cagliari; <sup>2 </sup>Fraunhofer IGD &emsp; <sup>3 </sup>Technische Universität Darmstadt</p>
+</div>
+
+
+
 
 
 
