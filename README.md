@@ -4,8 +4,9 @@
 
 <div align="center", padding="30px">
   <span style="display:block; height: 20em;">&emsp;</span>
-  <p><b>Andrea Atzori</b><sup> 3</sup> &emsp; <b>Gianni Fenu</b><sup> 3</sup> &emsp; <b>Mirko Marras</b><sup> 3</sup></p>
-  <p>Accepted at ECCV Workshops 2024 <a href="https://www.arxiv.org/abs/2508.13957"><img src="https://github.com/jankolf/assets/blob/main/badges/download-paper-arxiv-c1.svg?raw=true"></a></p>
+  <p><b>Andrea Atzori</b><sup> 1</sup> &emsp; <b>Gianni Fenu</b><sup> 1</sup> &emsp; <b>Mirko Marras</b><sup> 1</sup></p>
+  <p>Accepted at ECCV Workshops 2024</p>
+  <p><a href="https://arxiv.org/pdf/2409.02867?"><img src="https://github.com/jankolf/assets/blob/main/badges/download-paper-arxiv-c1.svg?raw=true"></a></p>
 </div>
 
 <div align="center"> and </div>
@@ -14,11 +15,12 @@
 
 <div align="center", padding="30px">
   <span style="display:block; height: 20em;">&emsp;</span>
-  <p><b>Andrea Atzori</b><sup> 3</sup> &emsp; <b>Fadi Boutros</b><sup> 2</sup> &emsp; <b>Naser Damer</b><sup> 1,2</sup></p>
-  <p>Accepted at FG 2024 <a href="https://www.arxiv.org/abs/2508.13957"><img src="https://github.com/jankolf/assets/blob/main/badges/download-paper-arxiv-c1.svg?raw=true"></a></p>
+  <p><b>Andrea Atzori</b><sup> 2</sup> &emsp; <b>Fadi Boutros</b><sup> 2</sup> &emsp; <b>Naser Damer</b><sup> 2,3</sup></p>
+  <p>Accepted at International Conference on Automatic Face and Gesture Recognition (FG) 2024</p>
+  <p><a href="https://arxiv.org/pdf/2404.03537"><img src="https://github.com/jankolf/assets/blob/main/badges/download-paper-arxiv-c1.svg?raw=true"></a></p>
 </div>
 
-<p><sup>1 </sup>Fraunhofer IGD &emsp; <sup>2 </sup>Technische Universität Darmstadt; <sup>3 </sup>University of Cagliari</p>
+<p><sup>1 </sup>University of Cagliari; <sup>2 </sup>Fraunhofer IGD &emsp; <sup>3 </sup>Technische Universität Darmstadt</p>
 
 
 
